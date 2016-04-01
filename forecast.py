@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# -*- coding: utf-8 -*-
+
 # Weather forecast for Raspberry Pi w/Adafruit Mini Thermal Printer.
 # Retrieves data from Yahoo! weather, prints current conditions and
 # forecasts for next two days.  See timetemp.py for a different
